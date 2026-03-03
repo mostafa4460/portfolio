@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .letter-m { fill: #3078ff; }
+      .letter-n { fill: #030303; }
+    </style>
+  </defs>
+  <!-- M -->
+  <path class="letter-m" d="M48 400V112h48l54 148 54-148h48v288h-42V230l-46 126h-28L90 230v170z"/>
+  <!-- N -->
+  <path class="letter-n" d="M272 400V112h44l112 198V112h42v288h-44L314 202v198z"/>
+</svg>

@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mostafa Nassr | Full Stack Developer",
+  title: "Mostafa Nassr Portfolio",
   description:
     "Full Stack Developer with 5+ years of experience building high-performance applications with React, TypeScript, and Node.js at companies like S&P Global, Tesla, and UnitedHealth Group.",
   keywords: [
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Mostafa Nassr" }],
   openGraph: {
-    title: "Mostafa Nassr | Full Stack Developer",
+    title: "Mostafa Nassr Portfolio",
     description:
       "Full Stack Developer building high-performance applications with React, TypeScript, and Node.js.",
     type: "website",
