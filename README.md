@@ -2,6 +2,20 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+### Environment Variables
+
+Copy `.env.example` to `.env.local` and fill in the required values:
+
+```bash
+cp .env.example .env.local
+```
+
+| Variable | Description |
+|---|---|
+| `RESEND_API_KEY` | Resend API key used to send emails via the contact form. Get one at [resend.com](https://resend.com/api-keys). |
+
+### Run the development server
+
 First, run the development server:
 
 ```bash
